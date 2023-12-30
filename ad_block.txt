@@ -1,0 +1,4 @@
+! 过滤b站首页广告
+bilibili.com#?#.feed-card:has(.bili-video-card__info--ad)
+bilibili.com#?#.bili-video-card:has(.bili-video-card__info--ad)
+bilibili.com#?#.bili-video-card:has(.bili-video-card__info--creative-ad)
